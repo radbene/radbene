@@ -4,43 +4,47 @@
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Radek
 
-### Software Developer | Computer Science Student
+### Software Developer | Computer Science Student @ AGH University of Kraków
 
-<br>
+</div>
+
+---
 
 ## 👨 About me:
 
-</div>
+I'm a passionate Computer Science student actively involved in the AGH SolarPlane student association, where I develop image recognition and vision systems for autonomous aerial vehicles. I'm especially drawn to solving real-world problems with code — whether it's in the sky or on the screen.
 
-### Key facts
-
-
-- 🏆 1st place winner at **SWM Hackathon 2025**, together with my team:
-
-<div align="center">
+- 🔭 Currently working on drone vision systems using **OpenCV**
+- 🧠 Exploring **AI** and **Computer Vision**
+- 💡 Building things that combine software with the physical world
+- 🏆 1st place winner at **Software Mansion Hackathon 2025**, together with my team:
+ 
+ <div align="center">
   <img src="https://github.com/user-attachments/assets/ae6b01f7-3c86-4f12-b557-ecc1cdc2932a" width="70%">
 </div>
 
-<br>
-<div align="center">
+---
 
 ## 🚀 Languages that I know
 
-[![Languages](https://skillicons.dev/icons?i=py,java,cpp,bash,rust,sql,&perline=3)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,cpp,bash,rust,sql&perline=5)](https://skillicons.dev)
 
 ## 🛠️ Technologies I have worked with
 
-[![Technologies](https://skillicons.dev/icons?i=git,github,gradle,idea,pycharm,vscode,ubuntu,linux,opencv,pytorch,regex,&perline=3)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,github,gradle,idea,pycharm,vscode,ubuntu,linux,opencv,pytorch,regex&perline=5)](https://skillicons.dev)
 
-## 🔥 Statistics
+---
+
+## 🔥 GitHub Stats & Contributions
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=radbene&show_icons=true&count_private=true&hide_title=true)
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radbene/radbene/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radbene/radbene/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/radbene/radbene/output/github-contribution-grid-snake.svg" />
-</picture>
 
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radbene/radbene/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radbene/radbene/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/radbene/radbene/output/github-contribution-grid-snake.svg" />
+  </picture>
 
 ---
