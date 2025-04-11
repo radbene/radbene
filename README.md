@@ -30,7 +30,7 @@
 
 ## 🛠️ Technologies I have worked with
 
-[![Technologies](https://skillicons.dev/icons?i=git,github,gradle,idea,pycharm,rustrover,vscode,ubuntu,linux,opencv,pytorch,regex,&perline=4)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,github,gradle,idea,pycharm,rrover,vscode,ubuntu,linux,opencv,pytorch,regex,&perline=4)](https://skillicons.dev)
 
 ## 🔥 Statistics
 
