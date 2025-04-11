@@ -24,11 +24,11 @@
 
 ## 🚀 Languages that I know
 
-[![Languages](https://skillicons.dev/icons?i=py,java,c,cpp,cs,bash,r,rust,elixir,bootstrap,html,css,js,ts,php,mysql,react&perline=9)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,bash,rust,sql)](https://skillicons.dev)
 
 ## 🛠️ Technologies I have worked with
 
-[![Technologies](https://skillicons.dev/icons?i=arduino,docker,git,github,gradle,idea,linux,vscode,md,discord,ubuntu,raspberrypi,ps,regex&perline=7)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,github,gradle,idea,pycharm,vscode,ubuntu,linux,opencv,regex&perline=7)](https://skillicons.dev)
 
 ## 🔥 Statistics
 
@@ -36,7 +36,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Blajszu/Blajszu/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Blajszu/Blajszu/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Blajszu/Blajszu/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/radben/radben/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
