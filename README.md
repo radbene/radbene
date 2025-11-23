@@ -31,7 +31,7 @@ I'm a passionate Computer Science student actively involved in the AGH SolarPlan
 
 ## 🛠️ Technologies I have worked with
 
-[![Technologies](https://skillicons.dev/icons?i=git,github,gradle,idea,pycharm,vscode,ubuntu,linux,opencv,pytorch,regex&perline=5)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=git,github,gradle,idea,pycharm,vscode,ubuntu,linux,opencv,pytorch,tensorflow,raspberrypi,regex&perline=5)](https://skillicons.dev)
 
 ---
 
