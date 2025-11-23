@@ -24,9 +24,6 @@ I'm a passionate Computer Science student actively involved in the AGH SolarPlan
 </div>
 
 ---
-## 🎮 Current Project: Halma
-
-I'm currently working on [Halma](https://github.com/radbene/Halma-Game) – a digital version of the classic board game, built with a custom frontend in `Pygame`. The project also includes an AI opponent trained using the Deep Q-Network (DQN) algorithm. The goal is to create a challenging, interactive game that blends traditional gameplay with modern reinforcement learning techniques.
 
 ## 🚀 Languages that I know
 
