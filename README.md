@@ -17,7 +17,7 @@ I'm a passionate Computer Science student actively involved in the AGH SolarPlan
 - 🔭 Currently working on drone vision systems using **OpenCV**
 - 🧠 Exploring **AI** and **Computer Vision**
 - 💡 Building things that combine software with the physical world
-- 🏆 1st place winner at **Software Mansion Hackathon 2025**, **BITxADATA Hackathon 2025** ,**Upside Hackathon 2026** and **Bitehack 2026**
+- 🏆 1st place winner at **Software Mansion Hackathon 2025**, **BITxADATA Hackathon 2025 (AI category)** ,**Upside Hackathon 2026** and **BITEhack Hackathon 2026 (AI category)**
 
 
 ---
