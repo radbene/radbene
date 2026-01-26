@@ -14,28 +14,22 @@
 
 I'm a passionate Computer Science student actively involved in the AGH SolarPlane student association, where I develop image recognition and vision systems for autonomous aerial vehicles. I'm especially drawn to solving real-world problems with code — whether it's in the sky or on the screen.
 
-- 🔭 Currently working on drone vision systems using **OpenCV**
-- 🧠 Exploring **AI** and **Computer Vision**
+- 🔭 Currently working on drone vision systems using **OpenCV**, getting started with RL in robotics and Scientific Machine Learning
 - 💡 Building things that combine software with the physical world
-- 🏆 1st place winner at **Software Mansion Hackathon 2025**, **BITxADATA Hackathon 2025 (AI category)** ,**Upside Hackathon 2026** and **BITEhack Hackathon 2026 (AI category)**
+- 🏆 1st place at **Software Mansion Hackathon 2025**, **BITxADATA Hackathon 2025 (AI category)** ,**Upside Hackathon 2026** and **BITEhack Hackathon 2026 (AI category)**
 
 
 ---
 
 ## 🚀 Languages that I know
 
-[![Languages](https://skillicons.dev/icons?i=py,java,cpp,bash,rust,sql&perline=5)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=py,java,cpp,bash,sql&perline=5)](https://skillicons.dev)
 
 ## 🛠️ Technologies I have worked with
 
 [![Technologies](https://skillicons.dev/icons?i=git,github,gradle,idea,pycharm,vscode,ubuntu,linux,opencv,pytorch,tensorflow,raspberrypi,regex&perline=5)](https://skillicons.dev)
 
 ---
-
-## 🔥 GitHub Stats & Contributions
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=radbene&show_icons=true&count_private=true&hide_title=true)
-
 
 
   <picture>
